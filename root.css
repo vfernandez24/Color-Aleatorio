@@ -1,0 +1,35 @@
+:root {
+    --1-clr: #FFD900;   /* Dorado */
+    --2-clr: #DAA520;   /* Oro viejo */
+    --3-clr: #8B0000;   /* Rojo oscuro */
+    --4-clr: #FF6347;   /* Tomate */
+    --5-clr: #20B2AA;   /* Verde aguamarina */
+    --6-clr: #4682B4;   /* Azul acero */
+    --7-clr: #6A5ACD;   /* Azul pizarra */
+    --8-clr: #FF4500;   /* Naranja rojizo */
+    --9-clr: #B22222;   /* Rojo fuego */
+    --10-clr: #00CED1;  /* Turquesa oscuro */
+    --11-clr: #F4A460;  /* Marrón arena */
+    --12-clr: #008080;  /* Verde azulado */
+    --13-clr: #556B2F;  /* Verde oliva oscuro */
+    --14-clr: #9932CC;  /* Violeta oscuro */
+    --15-clr: #FFDAB9;  /* Durazno */
+    --16-clr: #191970;  /* Azul medianoche */
+    --17-clr: #2E8B57;  /* Verde marino */
+    --18-clr: #FF8C00;  /* Naranja oscuro */
+    --19-clr: #00FA9A;  /* Verde primavera */
+    --20-clr: #A52A2A;  /* Marrón */
+    --21-clr: #40E0D0;  /* Turquesa */
+    --22-clr: #CD5C5C;  /* Rojo indio */
+    --23-clr: #1E90FF;  /* Azul dodger */
+    --24-clr: #FFB6C1;  /* Rosa claro */
+    --25-clr: #708090;  /* Gris pizarra */
+    --26-clr: #8FBC8F;  /* Verde grisáceo */
+    --27-clr: #FFA07A;  /* Salmón claro */
+    --28-clr: #D2691E;  /* Chocolate */
+    --29-clr: #4B0082;  /* Índigo */
+    --30-clr: #FA8072;  /* Salmón */
+
+    --background-clr: #fff;
+    --clr: #ffd900;
+}
